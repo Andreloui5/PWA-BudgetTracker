@@ -1,1 +1,30 @@
-// see code from week 9
+{
+  "name": "BudgetTracker",
+  "short_name": "BudgetTracker",
+  "icons": [
+    {
+      "src": "assets/images/icons/iconfinder_resolutions-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icons/iconfinder_resolutions-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icons/iconfinder_resolutions-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icons/iconfinder_resolutions-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
